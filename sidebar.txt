@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gar:home|Door43 (gar)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gar|d43-gar repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gar/archive/master.zip|d43-gar.zip]]
+
+**Recent Changes**
+{{changes>ns = gar}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gar|Ethnologue data]]
+
